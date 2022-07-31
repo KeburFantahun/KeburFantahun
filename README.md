@@ -17,7 +17,7 @@ My name is Kebur Fantahun. I’m a graduate student with a strong interest in Ma
 -->
 
 
-### 🤔 My interests
+### 💬 My interests
 
 * Physics
 * Statistics
@@ -31,7 +31,7 @@ My name is Kebur Fantahun. I’m a graduate student with a strong interest in Ma
 * Data Storytelling
 * Natural Language Processing
 
-### 📫 Reach me
+### 📫 Reach me at
 
 * [LinkedIn](https://www.linkedin.com/in/kfantahun/)
 
