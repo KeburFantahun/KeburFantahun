@@ -35,19 +35,19 @@
 
 ### :computer: Tools, Languages, and Frameworks
 
-[<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" />][GitHub]
 [<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />][GitHub]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GitHub]
+[<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" />][GitHub]
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 <br />
 <br />
 
 ### :tv: Presentations
 
-* [A Model for Classifying Attrition](https://www.youtube.com/watch?v=UtNPEyfNsoY)
-* [Predicting Beer Markets](https://www.youtube.com/watch?v=N48Fv-QEUrQ)
+* [Predicting Employee Attritionn](https://youtu.be/aJzSfHmRfDY)
+* [Exploring Beer and Brewery Data Attributes](https://www.youtube.com/watch?v=CJnrZHncjWc)
 
 
-[![Kebur's github stats](https://github-readme-stats.vercel.app/api?username=kfantahun)](https://github.com/anuraghazra/github-readme-stats)
+[![Kebur's github stats](https://github-readme-stats.vercel.app/api?username=KeburFantahun)](https://github.com/anuraghazra/github-readme-stats)
 
 [GitHub]: https://github.com/kfantahun
