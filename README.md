@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Kebur Fantahun. I’m a graduate student with a strong interest in Machine Learning, finishing up my Master's in Data Science at Southern Methodist University. I have experience in physics data analysis, client relations, and leveraging my history with math to better utilize and understand machine learning algorithms. I have made contributions to publications in both physics and data science. I am exceedingly excited to tackle problems and discover solutions. I work well either independently or in a team and I look forward to new projects.
+
 <!--
 
 **KeburFantahun/KeburFantahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +31,7 @@
 * Data Storytelling
 * Natural Language Processing
 
-### 📫 Reach me here
+### 📫 Reach me
 
 * [LinkedIn](https://www.linkedin.com/in/kfantahun/)
 
