@@ -48,6 +48,8 @@ My name is Kebur Fantahun. I’m a graduate student with a strong interest in Ma
 
 * [Predicting Employee Attritionn](https://youtu.be/aJzSfHmRfDY)
 * [Exploring Beer and Brewery Data Attributes](https://www.youtube.com/watch?v=CJnrZHncjWc)
+* [Bike Share Rental Demand](https://youtu.be/26EOqRzrp4Y)
+* [Predicting Particle Pathways](https://youtu.be/CO-q4uK_IU8)
 
 
 [![Kebur's github stats](https://github-readme-stats.vercel.app/api?username=KeburFantahun)](https://github.com/anuraghazra/github-readme-stats)
