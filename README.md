@@ -1,57 +1,44 @@
-### Hi there 👋
+# 👋 Hi, I’m Kebur Fantahun
 
-My name is Kebur Fantahun. I’m a graduate student with a strong interest in Machine Learning, finishing up my Master's in Data Science at Southern Methodist University. I have experience in physics data analysis, client relations, and leveraging my history with math to better utilize and understand machine learning algorithms. I have made contributions to publications in both physics and data science. I am exceedingly excited to tackle new problems and take great joy in discovering solutions. I work well either independently or in a team and I look forward to new projects.
+I'm a Data Scientist with a Master’s in Data Analytics from Southern Methodist University. I specialize in machine learning, forecasting, and data storytelling — blending scientific rigor with real-world impact.
 
-<!--
+---
 
-**KeburFantahun/KeburFantahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Key Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- **🎯 Employee Attrition Prediction**  
+  Built classification models to predict employee turnover using decision trees, logistic regression, and SHAP for explainability.
 
--->
+- **🚲 Bike Share Demand Forecast**  
+  Developed short- and long-term forecasts using ARIMA and Prophet models. Improved forecast accuracy by 15% and reduced planning errors by 20%.
 
+- **🧬 Particle Track Classification**  
+  Applied tree-based models and dense neural networks to classify particle trajectories from physics experiments. Increased model precision by 10%.
 
-### 💬 My interests
+- **🍺 Brewery Data Exploration**  
+  Performed data wrangling, feature engineering, and visualization to uncover regional trends in brewery operations and beer attributes.
 
-* Physics
-* Statistics
-* Data Mining
-* Machine Learning
-* Algorithms
+---
 
-### 🌱 I’m currently learning
+## ⚒️ Tools & Skills
 
-* Statistical Inference, Modeling, and Predictive Analytics
-* Data Storytelling
-* Natural Language Processing
+**Languages & Libraries:** Python · R · SQL · Scikit-Learn · Pandas · NumPy  
+**Cloud & Dev Tools:** Google Cloud Platform · Git · GitHub · Make.com  
+**Visualization:** Tableau · Looker · Matplotlib · Seaborn  
+**Techniques:** Classification · Forecasting · Time-Series Modeling · Clustering · NLP · Generative AI
 
-### 📫 Reach me at
+---
 
-* [LinkedIn](https://www.linkedin.com/in/kfantahun/)
+## 🌱 Currently Learning
 
-### :computer: Tools, Languages, and Frameworks
+- Natural Language Processing (NLP)
+- Causal Inference and Uplift Modeling
+- Generative Models (VAEs, Diffusion)
+- Data Visualization Best Practices
 
-[<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />][GitHub]
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GitHub]
-[<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" />][GitHub]
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
-<br />
-<br />
+---
 
-### :tv: Presentations
+## 📫 Connect with Me
 
-* [Predicting Employee Attritionn](https://youtu.be/aJzSfHmRfDY)
-* [Exploring Beer and Brewery Data Attributes](https://www.youtube.com/watch?v=CJnrZHncjWc)
-* [Bike Share Rental Demand](https://youtu.be/26EOqRzrp4Y)
-* [Predicting Particle Pathways](https://youtu.be/CO-q4uK_IU8)
-
-
-[![Kebur's github stats](https://github-readme-stats.vercel.app/api?username=KeburFantahun)](https://github.com/anuraghazra/github-readme-stats)
-
-[GitHub]: https://github.com/kfantahun
+- LinkedIn: [linkedin.com/in/keburfantahun](https://linkedin.com/in/keburfantahun)
+- GitHub: [github.com/keburfantahun](https://github.com/keburfantahun)
